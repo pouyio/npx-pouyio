@@ -5,3 +5,5 @@ Open your terminal and type:
 ```
 npx pouyio
 ```
+
+![](img.png)
