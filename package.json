@@ -1,22 +1,20 @@
 {
-  "name": "@bnb/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "pouyio",
+  "version": "1.0.0",
+  "description": "A personal card for Vicente Ortiz (@pouyio)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/pouyio/npx-pouyio.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://vicenteortiz.me",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
-    "dev": "npm run build && node ./bin/card.js",
-    "lint": "standard",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npm run build && node ./bin/card.js"
   },
   "keywords": [
     "card",
@@ -26,22 +24,18 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Vicente Ortiz <pouyio@gmail.com> (http://vicenteortiz.me)",
   "license": "MIT",
   "files": [
     "bin/card.js",
     "bin/output"
   ],
   "devDependencies": {
-    "boxen": "^2.1.0",
-    "chalk": "^2.4.1",
-    "standard": "^12.0.1"
+    "boxen": "^3.2.0",
+    "chalk": "^2.4.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/pouyio/npx-pouyio/issues"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "dependencies": {}
 }

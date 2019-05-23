@@ -1,9 +1,7 @@
-It's me, Tierney!
+It's me, Vicente!
 
 # Usage
-Assuming you have the GitHub registry set up, you can use via npx:
+Open your terminal and type:
 ```
-npx @bnb/card
+npx pouyio
 ```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
