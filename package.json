@@ -1,6 +1,6 @@
 {
   "name": "pouyio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Vicente Ortiz (@pouyio)",
   "main": "/bin/card.js",
   "bin": {

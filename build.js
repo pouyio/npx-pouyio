@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white('            Vicente Ortiz'),
   handle: chalk.green('pouyio'),
-  work: chalk.white.italic('      Senior Javascript Developer at Everis'),
+  work: chalk.white.italic('   Fullstack Javascript Developer at Lansweeper'),
   github: chalk.gray('https://github.com/') + chalk.red('pouyio'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.red('vicenteogc'),
   twitter: chalk.gray('https://twitter.com/') + chalk.red('pouyio'),
